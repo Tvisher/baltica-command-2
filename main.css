@@ -160,10 +160,11 @@
 .grid-item__modal .item-modal__love-berr {
   width: 100%;
   position: relative;
-  font-weight: 300;
   font-size: 14px;
   line-height: 140%;
   color: #012b62;
+  font-weight: 700;
+  padding-right: 70px;
 }
 .grid-item__modal .item-modal__love-berr a {
   color: #53a1d1;
